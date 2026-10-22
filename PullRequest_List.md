@@ -1,1 +1,4 @@
-lucas wales (lgwales) - https://github.com/sncampuz/ser316-TeamBuilding-Wolkenblastler/pull/10/
+# Pull Request List
+
+- Mohamed Rabeh: https://github.com/Sama147/ideenigel_ser316_german_story/pull/8
+- lucas wales (lgwales) - https://github.com/sncampuz/ser316-TeamBuilding-Wolkenblastler/pull/10/
